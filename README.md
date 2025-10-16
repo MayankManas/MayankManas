@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MayankManas
-- 👀 I’m interested in Java Programming, Spring Boot.
-- 🌱 I’m currently learning system and app design.
+- 👀 I’m primarily work with Java & Spring Boot mainly on backend systems.
 - 💞️ I’m looking to collaborate on challenging projects using Java, Spring Boot, Python, C++.
 - 📫 You can reach me on email iammayank.manas@gmail.com or on my number 8700833759.
 
